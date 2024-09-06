@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Zaghlol, a .NET Backend Developer.</h1>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">💻 .NET Backend Developer with a solid foundation in software engineering principles<br>🔧 Proficient in: C#, ASP.NET Core, SQL Server, Entity Framework, and various design patterns<br>🚀 Passionate about: Backend development and problem-solving<br>🛠️ Skilled in: Designing, developing, and maintaining scalable applications<br>🎯 Detail-oriented with a commitment to delivering high-quality solutions</p>
 
 ###
 <div align="center">
@@ -15,6 +10,13 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">💻 .NET Backend Developer with a solid foundation in software engineering principles<br>🔧 Proficient in: C#, ASP.NET Core, SQL Server, Entity Framework, and various design patterns<br>🚀 Passionate about: Backend development and problem-solving<br>🛠️ Skilled in: Designing, developing, and maintaining scalable applications<br>🎯 Detail-oriented with a commitment to delivering high-quality solutions</p>
+
+
 
 ###
 
